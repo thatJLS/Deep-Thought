@@ -1,2 +1,4 @@
 # Deep-Thought
 Open-source foundation model based off VLT, VLA, and VLM technologies. Designed for speed and accuracy, allowing androids to reach human-level intelligence and decision making capabilities.
+
+Let's face it: closed-source AI models are no longer sufficient enough to develop advanced humanoid robotics. In response to XPENG's ground-breaking IRON developments, Advanced Automatons Humanoid Robotics LTD has developed Deep Thought as a response to Chinese competition. Deep Thought is an open-source foundation model designed to become the standard for open-source, American-made humanoid robotics. Deep Thought is a distillation of the top American AI models leveraging VLT (Vision-Language-Transformer), VLA (Vision-Language-Action), and VLM (Vision-Language-Models) to create the most advanced AI model on the market. 
